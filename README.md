@@ -1,6 +1,6 @@
 # Log-based Anomaly Detection System
 
-The final project of deep learning and practice (summer 2020) in NCTU.
+
 
 The main procedures of this system are as follows:
 
